@@ -1,0 +1,8 @@
+*
+!.gitignore
+!*/
+env/
+!*/*.py
+!*/*.ipynb
+!README.md
+
